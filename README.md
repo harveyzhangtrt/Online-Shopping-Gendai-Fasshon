@@ -19,8 +19,6 @@
   Bootstrap
  </li>
 </ul>
-<h1> Mobile Layout </h1>
-<img src="Preview/gendai0.jpg"/>
 <h1> PC Layout</h1>
 <img src="Preview/1.JPG"/>
 <img src="Preview/2.JPG"/>
@@ -32,6 +30,3 @@
 <img src="Preview/8.JPG"/>
 <img src="Preview/9.JPG"/>
 <img src="Preview/10.JPG"/>
-
-<p>Navigation</p>
-<img src="Preview/1-1.JPG"/>
