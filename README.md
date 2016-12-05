@@ -20,7 +20,7 @@
  </li>
 </ul>
 <h1> Mobile Layout </h1>
-<img src="Preview/midori0.JPG"/>
+<img src="Preview/gendai0.JPG"/>
 <h1> PC Layout</h1>
 <img src="Preview/1.JPG"/>
 <img src="Preview/2.JPG"/>
